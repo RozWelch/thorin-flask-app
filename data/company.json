@@ -4,11 +4,35 @@
     {
       "name": "Tumeric",
       "description": "Celebrated for its golden color and its mustard-like taste, turmeric is a key ingredient in curries and stews across Asia. Added to cakes or steamed milk, turmeric is an unexpected treat at the end of a meal. Buddhist monastic robes, the walls of the temple in Jejuri, and Ayurvedic remedies across India all have turmeric in common.",
-      "image_source": "https://cdn.shopify.com/s/files/1/0148/1945/9126/products/J5l7OfyM7Np4epq0g45mlVUbCCqMCoOONv7-NekWfOIzwSdRHNUrjGElRjKoYuTKGizlhohX534_w615-h615_615x615.jpg"
+      "image_source": "https://cdn.shopify.com/s/files/1/0148/1945/9126/products/J5l7OfyM7Np4epq0g45mlVUbCCqMCoOONv7-NekWfOIzwSdRHNUrjGElRjKoYuTKGizlhohX534_w615-h615_615x615.jpg",
+      "url": "tumeric"
     },
+
     {
       "name": "Cumin",
       "description": "Cumin's savory pungency has been essential in curries for thousands of years. Today, you can use our Ground Cumin spice as a key flavor in American chili and barbecue sauces, certain Swiss and Dutch cheeses, Mexican bean dishes, and many Central Asian dishes.",
       "image_source": "https://cdn.shopify.com/s/files/1/0148/1945/9126/products/lQGkjnP3FH_d1prwKtAPMFqrJXh2n6lqjU87Vh_M6hBvpQachMljFOxX9Kuo_HOvZKB_SyAc_8w_w615-h615_615x615.jpg"
+    },
+
+    {
+      "name": "Cinnamon",
+      "description": "Spicy and sweet, this cinnamon is our most popular varietal. Its high volatile oilcontent more than 5%, which is rare for cinnamon makes the bark extremely potent. The best cassia bark is harvested near the base of mature trees. This cracked version is ideal for mulling cider or wine, or steeping with ground coffee. ",
+      "image_source": "https://cdn.shopify.com/s/files/1/0148/1945/9126/products/8CiSefIyxgS8kXzsvknfKs9CXKr7rgsuue0BBm3X-TwNW6nXsqVBOs27iptU8iCRmUGLprZImPs_w615-h615_615x615.jpg"
+    },
+    {
+      "name": "Cloves",
+      "description": "Discovered in Indonesia Spice Islands, cloves have long flavored the recipes of Asia, Africa, and the Middle East, as well as present-day baked goods everywhere. Slightly sweeter and more complex than the Indonesian variety, Sri Lankan cloves are hand-picked, yielding a plump, perfect shape ideal for studding hams or oranges.",
+      "image_source": "https://cdn.shopify.com/s/files/1/0148/1945/9126/products/sYiGfa3iGu8aExuY0FKBC7s9GvrJt9W6T5kMcpEHUnywCS2XRrWd9W7QzW6Bguc_JSru1XO8P0M_w615-h615_615x615.jpg"
+    },
+
+    {
+      "name": "Green Peppercorns",
+      "description": "The green peppercorn is picked early in the ripening process and blanched to preserve its green color. This gives it a zesty, fresh flavor. If you have noticed a distinctively spicy pepper note in Thai dishes, this is it!",
+      "image_source": "https://cdn.shopify.com/s/files/1/0148/1945/9126/products/XdL1cfUaM70bHOIN6VcNIwn8Tk6wzQpmafBQ3ejc8iXiPqYM3nsn2bl4Ofw6mjw1Rv8s7US6fjk_w615-h615_615x615.jpg"
+    },
+    {
+      "name": "Nutmeg",
+      "description": "Nutmeg was once so rare and valuable the Dutch traded Manhattan to the British for the sole island on which it grew. It has a fragrant and intense flavor when freshly ground. Today, Nutmeg is used in baked goods and custards, and grated for mashed potatoes, ravioli fillings, and egg nog. ",
+      "image_source": "https://cdn.shopify.com/s/files/1/0148/1945/9126/products/ZHUCA3yDBpMjohtaFfeKBjA6hNkTaYBYDtB-iXo2j4F3h5BuZTS3O8q5NBbVMZ5KxBDXmkZik8w_w615-h615_615x615.jpg"
     }
   ]
